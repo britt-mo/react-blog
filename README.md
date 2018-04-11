@@ -1,0 +1,1 @@
+Simple blog application created with React and React Router
